@@ -2,6 +2,8 @@
 
 To run the project:
 
+URL - https://sathvik987.github.io/robofriends/
+
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
