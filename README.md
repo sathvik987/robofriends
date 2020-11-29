@@ -1,6 +1,6 @@
 # robofriends
 
-URL- (Check about section)
+URL- https://sathvik987.github.io/robofriends/
 
 To run the project:
 
