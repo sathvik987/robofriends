@@ -20,6 +20,8 @@ class App extends Component {
         fetch('https://jsonplaceholder.typicode.com/users')
             .then(response => response.json())
             .then(users => this.setState({ robots: users }));
+
+        console.log("React version - ", React.version);
     }
     onSearchChange = (event) => {
         /*         use arrow fuctions for manaually created functions */
