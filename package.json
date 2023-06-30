@@ -19,8 +19,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "_comment": "add this to use deploy - homepage https://username.github.io/repo"
   },
+  "_comment": "add this to use deploy - homepage https://username.github.io/repo",
   "eslintConfig": {
     "extends": "react-app"
   },
