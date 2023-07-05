@@ -1,6 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.2.0",
+  "homepage": "https://sathvik987.github.io/robofriends",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -18,9 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build"
   },
-  "_comment": "add this to use deploy - homepage https://username.github.io/repo",
   "eslintConfig": {
     "extends": "react-app"
   },
